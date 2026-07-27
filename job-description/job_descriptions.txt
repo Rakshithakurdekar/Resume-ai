@@ -1,0 +1,8 @@
+We are looking for a Data Analyst to join our team.
+
+Requirements:
+- Proficient in Python, SQL, Excel, Pandas, NumPy
+- Experience with Tableau and Power BI dashboards
+- Strong knowledge of machine learning, data analysis, and statistics
+- Excellent communication and problem-solving skills
+- ETL development experience is a plus

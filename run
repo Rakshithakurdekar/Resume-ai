@@ -1,0 +1,2 @@
+streamlit run aaa.py
+ -m pip download -r requirements.txt -d vendor_packages

@@ -1,0 +1,22 @@
+| **Word / Abbreviation** | **Full Form / Meaning**                       | **Use in Project**                                                   |
+| ----------------------- | --------------------------------------------- | -------------------------------------------------------------------- |
+| **AI**                  | Artificial Intelligence                       | Used to analyze resumes, match skills, and generate insights.        |
+| **NLP**                 | Natural Language Processing                   | Helps the system understand resume text and job description.         |
+| **TF-IDF**              | Term Frequency – Inverse Document Frequency   | Identifies important keywords in resume & JD for similarity scoring. |
+| **JD**                  | Job Description                               | Compared with resume to compute match score and skill gaps.          |
+| **PDF**                 | Portable Document Format                      | Resume file format used for text extraction.                         |
+| **DOCX**                | Word Document Format                          | Another resume format used for text extraction.                      |
+| **ML**                  | Machine Learning                              | Enhances accuracy in keyword detection and similarity scoring.       |
+| **CSV**                 | Comma-Separated Values                        | Used for storing or exporting analysis data.                         |
+| **UI**                  | User Interface                                | The visible part where user interacts with the system.               |
+| **UX**                  | User Experience                               | Ensures smooth navigation, dark theme, and clean visuals.            |
+| **API**                 | Application Programming Interface             | For future integrations with external AI services.                   |
+| **JSON**                | JavaScript Object Notation                    | Used for structured data exchange and mappings.                      |
+| **Vectorization**       | Converting text into numerical representation | Required for TF-IDF and similarity comparison.                       |
+| **Cosine Similarity**   | Mathematical similarity measure               | Calculates resume–JD match score.                                    |
+| **Preprocessing**       | Cleaning text before analysis                 | Improves accuracy of the AI model.                                   |
+| **Stopwords**           | Common unnecessary words (the, is, at)        | Removed to enhance keyword quality.                                  |
+| **Lemmatization**       | Converting words to root form (running → run) | Helps match related keywords accurately.                             |
+| **Heatmap**             | Colored visual data representation            | Used for keyword intensity visualization.                            |
+| **Radar Chart**         | Circular multi-value chart                    | Shows strengths & weaknesses in different skills.                    |
+| **Automation**          | Performing tasks without manual effort        | Automates resume screening for recruiters.                           |

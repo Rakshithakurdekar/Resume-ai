@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+nltk
+scikit-learn
+pandas
+plotly
+matplotlib
+seaborn
+streamlit-lottie
+streamlit-option-menu
+fpdf2
